@@ -1,0 +1,19 @@
+{
+  "name": "plivo-2fa",
+  "version": "1.0.0",
+  "description": "Two Factor Authentication App using Plivo APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awebb8/plivo-2FA.git"
+  },
+  "author": "Alix Webb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awebb8/plivo-2FA/issues"
+  },
+  "homepage": "https://github.com/awebb8/plivo-2FA#readme"
+}
