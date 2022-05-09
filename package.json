@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/awebb8/plivo-2FA#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "express": "^4.18.1",
     "plivo": "^4.32.0"
   }
